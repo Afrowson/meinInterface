@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.App input{
+  font-size: 20px;
+  text-align: center;
+}
+
+.App button{
+  font-size: 20px;
+}
+
+.sign{
+  font-size: 24px!important;
+
+}
+.sign-red{
+  color: red!important;
+}
+
+.sign-green{
+  color: green!important;
+}
+
